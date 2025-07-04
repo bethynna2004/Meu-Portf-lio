@@ -7,6 +7,11 @@ return (
             Albertina Dlambe | Bethynna
         </h1>
         <h2> Junior FullStack Developer  | Cantora</h2>
+        <nav>
+            <a href="#about">Sobre Mim</a>
+            <a href="#projects">Projetos</a>
+            <a href="#contact">Contato</a>
+        </nav>
     </header>
     
     
